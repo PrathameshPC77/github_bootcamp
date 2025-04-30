@@ -1,2 +1,3 @@
 "Hello this is Git and GitHub bootcamp by DevTown"
 'pr request'
+'working with merge conflit resolution'
