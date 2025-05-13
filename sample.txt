@@ -1,2 +1,5 @@
 "Hello this is Git and GitHub bootcamp by DevTown"
 'pr request'
+'merge conflict test'
+'test merge test'
+
